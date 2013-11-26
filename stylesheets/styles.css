@@ -1,5 +1,104 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+/*********************************************
+ * FONTS
+ *********************************************/
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quicksand Regular'), local('Quicksand-Regular'), url(fonts/sKd0EMYPAh5PYCRKSryvWz8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Quicksand Bold'), local('Quicksand-Bold'), url(fonts/32nyIRHyCu6iqEka_hbKsnhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(fonts/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(fonts/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(fonts/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(fonts/PRmiXeptR36kaC0GEAetxjqR_3kx9_hJXbbyU8S6IN0.woff) format('woff');
+}
+
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+
 
 body {
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #ffffff;
+  background: -moz-radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #9fcf67), color-stop(100%, #ffffff));
+  background: -webkit-radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
+  background: -o-radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
+  background: -ms-radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
+  background: radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
+  background-color: white; }
+
+.reveal {
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  font-weight: 200;
+  letter-spacing: -0.02em;
+  color: #333333; }
+
+::selection {
+  color: white;
+  background: #134674;
+  text-shadow: none; }
+
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: "Quicksand", sans-serif;
+  text-transform: inherit;
+  text-shadow: none;
+}
+
+.reveal h1{
+  font-size: 3.6em;
+}
+
+.reveal section img {
+  border: 0px solid black;
+  background: none;
+  padding: 3px;
+}
+
+/*********************************************
+ * CUSTOM STYLES
+ *********************************************/
+
+#osgeo-gvsig-logo{
+  width:50%;
+  box-shadow: none;
+}
+
+.reveal section img.imgback{
+  padding:5px;
+  background: rgba(255,255,255,0.25);
 }

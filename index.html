@@ -1,79 +1,261 @@
 <!doctype html>
 <html lang="en">
-
   <head>
     <meta charset="utf-8">
-
-    <title>OSGeo y gvSIG</title>
-
-    <meta name="description" content="OSGeo y gvSIG, colaboración en software libre geoespacial">
+    <title> OSGeo y gvSIG </title>
+    <meta name="description"
+      content="OSGeo y gvSIG, colaboración en software libre geoespacial">
     <meta name="author" content="Jorge Sanz">
-
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
+    <meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="reveal/css/reveal.min.css">
-    <link rel="stylesheet" href="reveal/css/theme/default.css" id="theme">
-    <link rel="stylesheet" href="stylesheets/style.css">
-
+    <link rel="stylesheet" href="reveal/css/theme/sky.css" id="theme">
+    <link rel="stylesheet" href="stylesheets/styles.css">
     <!-- If the query includes 'print-pdf', use the PDF print sheet -->
     <script>
-      document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+          document.write('<link rel="stylesheet" href="reveal/css/print/' +
+          (window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper') +
+          '.css" type="text/css" media="print">');
     </script>
-
     <!--[if lt IE 9]>
-    <script src="lib/js/html5shiv.js"></script>
+      <script src="reveal/lib/js/html5shiv.js">
+      </script>
     <![endif]-->
   </head>
 
   <body>
-
     <div class="reveal">
-
       <!-- Any section element inside of this container is displayed as a slide -->
       <div class="slides">
         <section>
-          <h1>OSGeo y gvSIG</h1>
+          <img id="osgeo-gvsig-logo" src="imgs/osgeo-gvsig.png" alt="OSGeo y gvSIG">
+          <h2>Colaboración en sofware libre geoespacial</h2>
           <p>
-            <small>
-              <a href="http://wiki.osgeo.org/wiki/Jorge_Sanz">Jorge Sanz</a> · <a href="http://www.prodevelop.es">Prodevelop SL</a> · <a href="http://www.gvsig.com">Asociación gvSIG</a>
-            </small>
+            <a href="http://wiki.osgeo.org/wiki/Jorge_Sanz">Jorge Sanz</a>
+            <br/> <a href="http://www.prodevelop.es">Prodevelop SL</a> ·
+            <a href="http://www.gvsig.com">Asociación gvSIG</a> ·
+             <a href="http://www.osgeo.org">Fundación OSGeo</a>
+          </p>
+          <p>
+            <a href="http://kcy.me/vo2d">http://kcy.me/vo2d</a>
           </p>
         </section>
-      </div>
+        <section>
+          <h2> Agenda </h2>
+          <ul>
+            <li>¿Qué es OSGeo?</li>
+            <li>Incubación</li>
+            <li>Live DVD</li>
+            <li>Otras colaboraciones</li>
+            <li>...</li>
+          </ul>
+        </section>
+        <section>
+          <section>
+            <h2> Qué es OSGeo </h2>
+            <ul>
+              <li> Fundación para el SL geoespacial
+                <a href="http://www.osgeo.org">/www.osgeo.org</a></li>
+              <li>Organización sin ánimo de lucro (Delaware, EEUU)</li>
+              <li>Desde febrero <strong>2006</strong></li>
+              <li>Opera de forma similar a la fundación
+                <a href="https://www.apache.org/foundation/"></a>>Apache</a></li>
+              <li><strong>Todo</strong> el trabajo es voluntario</li>
+            </ul>
+          </section>
+          <section>
+            <h3> Misión </h3>
+            <img src="imgs/osgeo-logo.png" alt="osgeo-logo">
+            <blockquote>
+              &laquo;<strong>Apoyar</strong> el desarrollo de software libre
+              <strong>geoespacial</strong> y <strong>promocionar</strong>
+              su uso&raquo;
+            </blockquote>
+            <p style="font-size:smaller;float:right;">
+              <a href="http://www.osgeo.org/content/foundation/about.html">fuente</a>
+            </p>
+          </section>
+          <section>
+            <h3>Objetivos</h3>
+            <ul>
+              <li>Proporcionar <strong>recursos</strong> a los proyectos</li>
+              <li>Proporcionar una imagen común de <strong>calidad</strong></li>
+              <li>Promocionar el uso de los proyectos en la
+                <strong>industria</strong> y la <strong>educación</strong></li>
+              <li>Asegurar que el software es <strong>accesible</strong> a los usuarios</li>
+              <li>Fomentar el uso de <strong>estándares</strong> y datos
+                <strong>libres</strong></li>
+            </ul>
+          </section>
+          <section>
+            <h3>Estructura</h3>
+            <img src="imgs/osgeo_structure.png" alt="Diagram of the OSGeo Structure"
+              style=" background-color: white; padding: 15px; ">
+          </section>
+          <section>
+            <h3>Proyectos</h3>
+            <img class="imgback" src="imgs/projlogos.png" alt="Algunos proyectos">
+          </section>
+          <section>
+            <h3>Capítulos locales</h3>
+            <img src="imgs/wordle_lc.png" alt="OSGeo Local Chapters"
+              style=" background-color: white; padding: 15px; ">
+            <aside class="notes">
+              Currently there are 46 local chapters
+            </aside>
+          </section>
+          <section>
+            <img class="imgback" src="imgs/osgeo-es-v2.png" alt="OSGeo-es">
+            <ul>
+              <li><a href="http://es.osgeo.org">http://es.osgeo.org</a></li>
+              <li>Comunidad hispano-hablante de OSGeo</li>
+              <li>Soporte en español</li>
+              <li>Traducción de documentos</li>
+              <li>Promoción del software libre en eventos</li>
+              <li>...</li>
+            </ul>
+          </section>
+          <section>
+            <h2>FOSS4G</h2>
+            <img class="imgback" src="imgs/foss4g-locations.png" alt="Localización del FOSS4G"
+              style="width:80%;">
+            <p style="float:right;font-size:smaller;">
+              ... y muchos más eventos regionales y nacionales
+             </p>
+          </section>
+        </section>
 
+        <!-- Incubación -->
+        <section>
+          <section>
+            <h2>Incubación de proyectos</h2>
+            <ul>
+              <li class="fragment fadein">Proceso de aceptación de proyectos<br/>
+                de la fundación</li>
+              <li class="fragment fadein">Gestionado por un
+                <a href="http://wiki.osgeo.org/wiki/Incubation_Committee">comité</a></li>
+              </li>
+              <li class="fragment fadein">Asegurar:
+                <ul>
+                  <li>Proyecto abierto</li>
+                  <li>Comunidad diversa y activa</li>
+                  <li>Calidad técnica</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+          <section>
+            <h2>Proceso de incubación</h2>
+            <img class="imgback"
+            src="imgs/flujo-incubacion.png" alt="Flujo de la incubación">
+          </section>
+          <section>
+            <h3>Requisitos</h3>
+             <ul>
+              <li>¿Es software libre?</li>
+              <li>¿La comunidad funciona de una forma abierta?</li>
+              <li>¿Se dispone del <em>copyright</em>?</li>
+              <li>¿Se siguen procesos abiertos?
+                <ul>
+                  <li>SCM, incidencias, ...</li>
+                </ul>
+              </li>
+              <li>¿Documentación?
+                <ul>
+                  <li>de usuario, técnica, organizativos, ...</li>
+                </ul>
+              </li>
+              <li>¿Está integrada en OSGeo?
+                <ul>
+                  <li><em>officer</em>, <em>marketing</em>,...</li>
+                </ul>
+              </li>
+              <li>¿Se necesita la infraestructura de OSGeo?
+                <ul>
+                  <li>listas de correo, svn, trac, ...</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <div id="timeline-embed"></div>
+            <script type="text/javascript">
+                var timeline_config = {
+                    debugkey: true,
+                    width:              '100%',
+                    height:             '600',
+                    source:             'timeline.json',
+                    embed_id:           'timeline-embed',               //OPTIONAL USE A DIFFERENT DIV ID FOR EMBED
+                    start_at_end:       false,                          //OPTIONAL START AT LATEST DATE
+                    ebug:              true,                           //OPTIONAL DEBUG TO CONSOLE
+                    lang:               'es',                           //OPTIONAL LANGUAGE
+                    css:                'timelinejs/build/css/timeline.css',     //OPTIONAL PATH TO CSS
+                    js:                 'timelinejs/build/js/timeline-min.js'    //OPTIONAL PATH TO JS
+                }
+            </script>
+            <script type="text/javascript" src="timelinejs/build/js/storyjs-embed.js"/>
+          </section>
+<!--          - junio 2007 se solicita incubación
+          - septiembre 2007 se aprueba la incubación
+          - diciembre 2007 3as jornadas gvSIG
+          - julio 2008 se abre SVN/Trac
+          - agosto 2008 primer manual para desarrolladores
+          - febrero 2009 nace la Asociación gvSIG
+          - julio 2009 arranca el TSC
+          - diciembre 2009 gvSIG 1.9
+          - abril 2010 migración a OSOR de SVN, incidencias, ...
+          - septiembre 2010 gvSIG Mini 1.0
+          - noviembre 2010 gvSIG 1.10
+          - diciembre 2010 primer Code/bug Sprint
+          - diciembre 2010 actas públicas TSC
+          - febrero 2011 planet.gvsig.org
+          - febrero 2011 nuevas listas: TSC, devel, announces
+          - marzo 2011 outreach.gvsig.org
+          - abril 2011 gvSIG 1.11
+          - abril 2011 gvSIG Training
+          - mayo 2011 Procedimiento gvSIG CLA
+          - noviembre 2011 1a alfa de gvSIG 2.0
+          - enero 2012 migración de OSOR a JoinUP
+          - enero 2012 migración a devel.gvsig.org
+          - septiembre 2012 gvSIG Batoví
+          - septiembre 2012 gvSIG 1.12
+          - octubre 2012 gvSIG 2.0 beta 1
+          - abril 2013 gvSIG 2.0  -->
+        </section>
+
+
+      </div>
     </div>
 
+    <!-- JavaScript stuff -->
     <script src="reveal/lib/js/head.min.js"></script>
     <script src="reveal/js/reveal.min.js"></script>
-
     <script>
-
       // Full list of configuration options available here:
       // https://github.com/hakimel/reveal.js#configuration
-      Reveal.initialize({
+      Reveal.initialize(
+      {
         controls: true,
         progress: true,
         history: true,
         center: true,
 
-        theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
-
+        transition: 'fade',
+        // default/cube/page/concave/zoom/linear/fade/none
         // Optional libraries used to extend on reveal.js
         dependencies: [
-          { src: 'reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: 'reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: 'reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: 'reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: 'reveal/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-          { src: 'reveal/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
-        ]
+        {
+          src: 'reveal/lib/js/classList.js', condition: function()
+          { return !document.body.classList;}
+        },
+        {
+          src: 'reveal/plugin/notes/notes.js', async: true, condition: function()
+          { return !!document.body.classList;}
+        }]
       });
-
     </script>
-
   </body>
 </html>

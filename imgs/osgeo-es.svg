@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="330.16144"
+   height="86.33004"
+   id="svg13591"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   version="1.0"
+   sodipodi:docname="osgeo-es.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/jsanz/src/github/slides-9gvsig/imgs/osgeo-es-v2.png"
+   inkscape:export-xdpi="218.08"
+   inkscape:export-ydpi="218.08"
+   style="display:inline">
+  <defs
+     id="defs13593">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 65 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="300 : 65 : 1"
+       inkscape:persp3d-origin="150 : 43.333333 : 1"
+       id="perspective43" />
+    <inkscape:perspective
+       id="perspective3637"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3669"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3713"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3735"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3758"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3780"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3803"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3825"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3849"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3871"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3916"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3947"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3973"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4035"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4061"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4083"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2896"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2924"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2946"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3871-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3919"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4204"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3668"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9250131"
+     inkscape:cx="148.63897"
+     inkscape:cy="31.925155"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     width="300px"
+     height="130px"
+     showgrid="false"
+     inkscape:window-width="1916"
+     inkscape:window-height="1157"
+     inkscape:window-x="0"
+     inkscape:window-y="41"
+     inkscape:window-maximized="0"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <metadata
+     id="metadata13596">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Fondo"
+     style="display:none"
+     transform="translate(-0.54092897,-10.121298)">
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:none"
+       id="rect3826"
+       width="331.42633"
+       height="289.86816"
+       x="-138.18088"
+       y="-143.6347" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.87175375;stroke-opacity:1"
+       id="rect3828"
+       width="105.0626"
+       height="105.0626"
+       x="1.3123379"
+       y="4.8716011"
+       inkscape:export-filename="/home/jorge/Escritorio/bacia-osgeo-es-v2.png"
+       inkscape:export-xdpi="254.87482"
+       inkscape:export-ydpi="254.87482" />
+  </g>
+  <g
+     transform="translate(3.8357697,-52.039994)"
+     style="display:none"
+     inkscape:label="bacía copia"
+     id="g2869"
+     inkscape:groupmode="layer">
+    <path
+       id="path2871"
+       d="m 49.99316,62.541091 c -29.733846,0 -53.827223,16.554548 -53.827223,36.984659 0,20.4301 24.093377,36.98464 53.827223,36.98464 29.73383,0 53.82721,-16.55454 53.82721,-36.98464 0,-3.757796 -0.79757,-7.388578 -2.31357,-10.805641 -3.74499,1.578668 -8.17012,2.495156 -12.88573,2.495156 -13.608022,0 -24.62932,-7.572724 -24.62932,-16.922793 0,-3.542574 1.597684,-6.839723 4.305006,-9.558059 C 62.580847,63.314155 56.422215,62.541091 49.99316,62.541091 z"
+       style="fill:none;stroke:#a0ce67;stroke-width:2.11200571;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="display:none"
+     transform="translate(-0.48245783,-31.474789)"
+     id="g3734"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1 copia">
+    <g
+       transform="matrix(0.77298632,0,0,0.77298632,6.758613,22.123535)"
+       id="g3736">
+      <circle
+         cx="55.669998"
+         cy="70.192001"
+         r="31.707001"
+         id="circle3738"
+         sodipodi:cx="55.669998"
+         sodipodi:cy="70.192001"
+         sodipodi:rx="31.707001"
+         sodipodi:ry="31.707001"
+         style="fill:#a0ce67"
+         d="m 87.376999,70.192001 c 0,17.511293 -14.195708,31.706999 -31.707001,31.706999 -17.511293,0 -31.707001,-14.195706 -31.707001,-31.706999 0,-17.511293 14.195708,-31.707 31.707001,-31.707 17.511293,0 31.707001,14.195707 31.707001,31.707 z" />
+    </g>
+    <polygon
+       transform="matrix(0.77298632,0,0,0.77298632,6.758613,22.123535)"
+       stroke-miterlimit="6"
+       points="78.884,121.407 72.411,75.859 107.593,46.548 61.494,53.061 61.494,53.061 26.327,4.407 38.873,63.876 3.379,93.238 49.515,86.588 "
+       id="polygon3740"
+       style="fill:#ffffff;stroke:#a0ce67;stroke-width:2;stroke-miterlimit:6" />
+    <g
+       transform="matrix(0.77298632,0,0,0.77298632,6.758613,22.123535)"
+       id="g3742">
+      <polygon
+         clip-rule="evenodd"
+         points="52.106,66.806 46.326,49.022 55.255,65.431 60.669,55.451 58.606,66.663 58.606,66.663 76.371,60.624 60.143,69.772 69.983,74.904 59.123,73.172 65.45,91.554 55.707,74.987 50.335,84.403 51.976,73.643 34.388,79.515 50.561,70.082 40.388,64.431 "
+         id="polygon3744"
+         style="fill:#49a942;fill-rule:evenodd" />
+    </g>
+    <path
+       id="path3746"
+       style="fill:none"
+       d=""
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3748"
+       style="fill:none"
+       d=""
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="/home/jorge/Escritorio/con-enye.png"
+       id="text3750"
+       y="66.259827"
+       x="72.104637"
+       style="font-size:53.69372559px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#49a942;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       xml:space="preserve"><tspan
+         y="66.259827"
+         x="72.104637"
+         id="tspan3752"
+         sodipodi:role="line">ñ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.69372559px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#49a942;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="72.104637"
+       y="66.259827"
+       id="text3754"
+       inkscape:export-filename="/home/jorge/Escritorio/con-enye.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"><tspan
+         sodipodi:role="line"
+         id="tspan3756"
+         x="72.104637"
+         y="66.259827">ñ</tspan></text>
+    <path
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="/home/jorge/Escritorio/con-enye.png"
+       id="path3758"
+       d="m 83.2596,27.738748 c -1.03125,3.8e-5 -1.87572,0.221095 -2.52241,0.658018 -0.64671,0.436998 -1.17725,1.007293 -1.57924,1.688915 -0.38453,0.681695 -0.65872,1.442204 -0.83349,2.281133 -0.1748,0.821519 -0.30744,1.626241 -0.394816,2.412738 l 2.390796,0 c 0.1573,-0.996239 0.47124,-1.783137 0.94317,-2.325001 0.47191,-0.541798 1.1882,-0.811523 2.14952,-0.811558 0.54182,3.5e-5 1.12102,0.172427 1.73279,0.504482 0.6292,0.314645 1.29238,0.672793 1.97405,1.074765 0.68165,0.384558 1.37156,0.742706 2.10566,1.074763 0.73408,0.314643 1.48122,0.48258 2.21534,0.482549 1.04868,3.1e-5 1.89761,-0.221028 2.54433,-0.65802 0.64668,-0.454406 1.14637,-1.029158 1.51345,-1.71085 0.3845,-0.681624 0.65868,-1.437676 0.8335,-2.259199 0.17476,-0.838928 0.30739,-1.643648 0.3948,-2.412735 l -2.41274,0 c -0.13984,0.978828 -0.45377,1.765727 -0.94315,2.325 -0.47193,0.541866 -1.18379,0.811592 -2.1276,0.811556 -0.52437,3.6e-5 -1.07718,-0.167899 -1.68891,-0.482547 -0.59429,-0.332054 -1.24855,-0.690203 -1.93019,-1.074764 -0.68168,-0.401967 -1.37159,-0.760116 -2.10567,-1.074765 -0.7341,-0.332051 -1.49016,-0.504442 -2.25919,-0.50448 z"
+       style="font-size:76.49909973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a0ce67;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:76.49909973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a0ce67;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       d="m 83.2596,27.738748 c -1.03125,3.8e-5 -1.87572,0.221095 -2.52241,0.658018 -0.64671,0.436998 -1.17725,1.007293 -1.57924,1.688915 -0.38453,0.681695 -0.65872,1.442204 -0.83349,2.281133 -0.1748,0.821519 -0.30744,1.626241 -0.394816,2.412738 l 2.390796,0 c 0.1573,-0.996239 0.47124,-1.783137 0.94317,-2.325001 0.47191,-0.541798 1.1882,-0.811523 2.14952,-0.811558 0.54182,3.5e-5 1.12102,0.172427 1.73279,0.504482 0.6292,0.314645 1.29238,0.672793 1.97405,1.074765 0.68165,0.384558 1.37156,0.742706 2.10566,1.074763 0.73408,0.314643 1.48122,0.48258 2.21534,0.482549 1.04868,3.1e-5 1.89761,-0.221028 2.54433,-0.65802 0.64668,-0.454406 1.14637,-1.029158 1.51345,-1.71085 0.3845,-0.681624 0.65868,-1.437676 0.8335,-2.259199 0.17476,-0.838928 0.30739,-1.643648 0.3948,-2.412735 l -2.41274,0 c -0.13984,0.978828 -0.45377,1.765727 -0.94315,2.325 -0.47193,0.541866 -1.18379,0.811592 -2.1276,0.811556 -0.52437,3.6e-5 -1.07718,-0.167899 -1.68891,-0.482547 -0.59429,-0.332054 -1.24855,-0.690203 -1.93019,-1.074764 -0.68168,-0.401967 -1.37159,-0.760116 -2.10567,-1.074765 -0.7341,-0.332051 -1.49016,-0.504442 -2.25919,-0.50448 z"
+       id="path3760"
+       inkscape:export-filename="/home/jorge/Escritorio/con-enye.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="bacía"
+     style="display:inline"
+     transform="translate(3.8357697,-52.039994)">
+    <path
+       style="fill:#a0ce67;fill-opacity:1;stroke:#4aaa43;stroke-width:1.87902546;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 49.99316,66.620954 c -26.453836,0 -47.889417,14.728377 -47.889417,32.904796 0,18.17642 21.435581,32.90477 47.889417,32.90477 26.453824,0 47.88941,-14.72835 47.88941,-32.90477 0,-3.343266 -0.7096,-6.573528 -2.05836,-9.613647 -3.33188,1.404523 -7.26886,2.21991 -11.46428,2.21991 -12.106886,0 -21.912398,-6.737359 -21.912398,-15.056 0,-3.151785 1.42144,-6.085217 3.830111,-8.503687 C 61.19227,67.30874 55.713011,66.620954 49.99316,66.620954 z"
+       id="path3937"
+       inkscape:export-filename="/home/jorge/Escritorio/bacia-osgeo-es-v2.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#4aaa43;fill-opacity:1;display:inline"
+       id="g11943-2"
+       transform="matrix(0.70685201,0,0,0.70685201,8.595463,52.967066)"
+       inkscape:export-filename="/home/jorge/Escritorio/bacia-osgeo-es-v2.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250">
+      <path
+         style="fill:#4aaa43;fill-opacity:1"
+         d="m 87.376999,70.192001 c 0,17.511293 -27.185944,16.196269 -29.76816,16.196269 -2.223443,0 -33.645842,1.315024 -33.645842,-16.196269 0,-17.511293 14.195708,-31.707 31.707001,-31.707 17.511293,0 31.707001,14.195707 31.707001,31.707 z"
+         id="circle11945-1"
+         sodipodi:nodetypes="csssc"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="nye"
+     style="display:none"
+     transform="translate(-0.54092897,-60.121298)">
+    <text
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="/home/jorge/Escritorio/bacia-osgeo-es-v2.png"
+       id="text2873"
+       y="105.16506"
+       x="71.263878"
+       style="font-size:53.69372559px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4aaa43;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       xml:space="preserve"><tspan
+         y="105.16506"
+         x="71.263878"
+         id="tspan2875"
+         sodipodi:role="line">ñ</tspan></text>
+    <path
+       style="font-size:76.49909973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a0ce67;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       d="m 82.41885,66.643987 c -1.03124,3.8e-5 -1.87571,0.221095 -2.52241,0.658018 -0.64671,0.436998 -1.17724,1.007294 -1.57924,1.688915 -0.384528,0.681695 -0.658718,1.442204 -0.833488,2.281134 -0.17479,0.821519 -0.30743,1.62624 -0.39482,2.412737 l 2.390808,0 c 0.15729,-0.996239 0.47123,-1.783137 0.94316,-2.325001 0.47191,-0.541798 1.1882,-0.811523 2.14953,-0.811558 0.54182,3.5e-5 1.12102,0.172427 1.73278,0.504482 0.62921,0.314645 1.29239,0.672793 1.97406,1.074765 0.68164,0.384559 1.37155,0.742707 2.10566,1.074764 0.73408,0.314643 1.48122,0.48258 2.21533,0.482548 1.04868,3.2e-5 1.89761,-0.221027 2.54433,-0.65802 0.64669,-0.454406 1.14638,-1.029158 1.51346,-1.710849 0.38449,-0.681625 0.65868,-1.437677 0.83349,-2.2592 0.17476,-0.838927 0.30739,-1.643648 0.3948,-2.412735 l -2.41273,0 c -0.13984,0.978828 -0.45378,1.765727 -0.94316,2.325 -0.47193,0.541867 -1.18378,0.811592 -2.12759,0.811557 -0.52437,3.5e-5 -1.07719,-0.1679 -1.68892,-0.482548 -0.59428,-0.332054 -1.24855,-0.690203 -1.93019,-1.074764 -0.68168,-0.401967 -1.37158,-0.760116 -2.10566,-1.074765 -0.73411,-0.332051 -1.49016,-0.504442 -2.2592,-0.50448 z"
+       id="text3894-6-3"
+       inkscape:export-filename="/home/jorge/Escritorio/bacia-osgeo-es-v2.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#a0ce67;fill-opacity:1;stroke:none"
+       d="m 76.066362,98.5262 3.774088,1.38265 0.56145,6.13041 -5.519441,0.25974 -0.97402,-4.93503 0.519477,-2.07791 1.638446,-0.75986 z"
+       id="path3771"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/jorge/Escritorio/bacia-osgeo-es-v2.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Texto"
+     transform="translate(-0.54092897,-60.121298)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:55.89555359px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#49a942;fill-opacity:1;stroke:#49a942;stroke-width:0.79991263;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="111.17209"
+       y="109.71695"
+       id="text4252"
+       transform="scale(0.97107865,1.0297827)"><tspan
+         sodipodi:role="line"
+         id="tspan4254"
+         x="111.17209"
+         y="109.71695"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#49a942;fill-opacity:1;stroke:#49a942;stroke-width:0.79991263;stroke-opacity:1;font-family:Myriad Apple;-inkscape-font-specification:Myriad Apple Bold">OSGeo-es</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.15979576px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#a4d767;fill-opacity:1;stroke:#a4d767;stroke-width:0.25988203;stroke-opacity:1;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="145.04555"
+       y="129.08307"
+       id="text4252-8"
+       transform="scale(0.97107865,1.0297827)"><tspan
+         sodipodi:role="line"
+         id="tspan4254-8"
+         x="145.04555"
+         y="129.08307"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#a4d767;fill-opacity:1;stroke:#a4d767;stroke-width:0.25988203;stroke-opacity:1;font-family:Myriad Apple;-inkscape-font-specification:Myriad Apple Bold Italic">Tu brújula al software libre</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.48245783,-31.474789)"
+     style="display:inline">
+    <polygon
+       style="fill:#ffffff;stroke:#a0ce67;stroke-width:2;stroke-miterlimit:6"
+       id="polygon11947"
+       points="61.494,53.061 26.327,4.407 38.873,63.876 3.379,93.238 49.515,86.588 78.884,121.407 72.411,75.859 107.593,46.548 61.494,53.061 "
+       stroke-miterlimit="6"
+       transform="matrix(0.59620092,0,0,0.59620092,20.267989,34.443532)"
+       inkscape:export-filename="/home/jorge/Escritorio/bacia-osgeo-es-v2.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250" />
+    <g
+       id="g11949"
+       transform="matrix(0.59620092,0,0,0.59620092,20.267989,34.443532)"
+       inkscape:export-filename="/home/jorge/Escritorio/bacia-osgeo-es-v2.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250">
+      <polygon
+         style="fill:#49a942;fill-rule:evenodd"
+         id="polygon11951"
+         points="50.335,84.403 51.976,73.643 34.388,79.515 50.561,70.082 40.388,64.431 52.106,66.806 46.326,49.022 55.255,65.431 60.669,55.451 58.606,66.663 58.606,66.663 76.371,60.624 60.143,69.772 69.983,74.904 59.123,73.172 65.45,91.554 55.707,74.987 "
+         clip-rule="evenodd" />
+    </g>
+    <path
+       d=""
+       style="fill:none"
+       id="path11953"
+       inkscape:connector-curvature="0" />
+    <path
+       d=""
+       style="fill:none"
+       id="path11955"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

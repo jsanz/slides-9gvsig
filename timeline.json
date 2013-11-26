@@ -1,0 +1,20 @@
+{
+    "timeline":
+    {
+        "headline":"Incubación de gvSIG en OSGeo",
+        "type":"default",
+        "text":"<p>Principales hitos relacionados con la incubación de gvSIG en OSGeo</p>",
+        "asset": {
+            "media":"",
+            "credit":"Jorge Sanz",
+            "caption":"gvSIG-OSGeo"
+        },
+        "date": [
+            {
+                "startDate":"2007,06",
+                "headline":"Solicitud de incubación",
+                "text":"<p></p>"
+            }
+        ]
+    }
+}
