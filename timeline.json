@@ -1,13 +1,12 @@
 {
   "timeline":
   {
-    "headline":"Incubación de gvSIG en OSGeo",
+    "headline":"Incubación de gvSIG",
     "type":"default",
+    "startDate":"2007,06",
     "text":"<p>Principales hitos relacionados con la incubación de gvSIG en OSGeo</p>",
     "asset": {
-      "media":"",
-      "credit":"Jorge Sanz",
-      "caption":"gvSIG-OSGeo"
+      "media":"imgs/osgeo-gvsig.png"
     },
     "date": [
       {
@@ -17,6 +16,7 @@
       },{
         "startDate":"2007,09",
         "headline":"Incubación aceptada",
+        "text":"Mentor: Jeroen Ticheler<br/>Contacto: Jorge Sanz",
         "asset":{
           "media":"imgs/foss4g2007.jpg",
           "credit":"",
@@ -122,6 +122,10 @@
           "media":"imgs/redmine.png",
           "caption":"https://devel.gvsig.org/redmine/projects/gvsig-desktop"
         }
+      },{
+        "startDate":"2013,02",
+        "headline":"Relevo",
+        "text":"Mentor: Dimitris Kotzinos<br/>Contacto: Manuel Madrid"
       },{
         "startDate":"2013,04",
         "headline":"Publicación gvSIG 2.0",
