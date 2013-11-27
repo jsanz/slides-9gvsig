@@ -73,7 +73,7 @@
         "text":"<p><a href=\"http://www.gvsig.org/web/working-groups/organizacion/docs/meetings/\">reuniones</a></p>"
       },{
         "startDate":"2011,02",
-        "headline":"Arranca planet gvSIG",
+        "headline":"Planet gvSIG",
         "text":"Agregador de blogs de la comunidad",
         "asset":{
           "media":"imgs/planet_gvsig.png",
@@ -94,7 +94,7 @@
         }
       },{
         "startDate":"2011,04",
-        "headline":"Arranca gvSIG Training",
+        "headline":"gvSIG Training",
         "text":"Plataforma de e-learning de la Asociación gvSIG",
         "asset":{
           "media":"imgs/gvsig_training.png",
