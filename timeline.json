@@ -128,7 +128,7 @@
         "text":"<p><a href=\"http://www.gvsig.org/web/organization/news-office/news/nueva-version-gvsig-2-0-final-disponible/\">noticia</a></p>"
       },{
         "startDate":"2013,09",
-        "headline":"Primer borrador de la revisón de código",
+        "headline":"Primer borrador de la revisión de código",
         "text":"<p><a href=\"http://www.gvsig.org/web/projects/gvsig-desktop/docs/devel/gvsig-devel-guide/2-1-0/provenance-review\">informe</a></p>",
         "asset":{
           "media":"imgs/gvsig_provreview.png"
