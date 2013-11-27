@@ -1,104 +1,60 @@
 /*********************************************
- * FONTS
- *********************************************/
-@font-face {
-  font-family: 'Quicksand';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Quicksand Regular'), local('Quicksand-Regular'), url(fonts/sKd0EMYPAh5PYCRKSryvWz8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
-}
-@font-face {
-  font-family: 'Quicksand';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Quicksand Bold'), local('Quicksand-Bold'), url(fonts/32nyIRHyCu6iqEka_hbKsnhCUOGz7vYGh680lGh-uXM.woff) format('woff');
-}
-
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url(fonts/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(fonts/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(fonts/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(fonts/PRmiXeptR36kaC0GEAetxjqR_3kx9_hJXbbyU8S6IN0.woff) format('woff');
-}
-
-
-/*********************************************
- * GLOBAL STYLES
- *********************************************/
-
-
-body {
-  background: #ffffff;
-  background: -moz-radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #9fcf67), color-stop(100%, #ffffff));
-  background: -webkit-radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
-  background: -o-radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
-  background: -ms-radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
-  background: radial-gradient(center, circle cover, #ffffff 0%, #9fcf67 100%);
-  background-color: white; }
-
-.reveal {
-  font-family: "Open Sans", sans-serif;
-  font-size: 36px;
-  font-weight: 200;
-  letter-spacing: -0.02em;
-  color: #333333; }
-
-::selection {
-  color: white;
-  background: #134674;
-  text-shadow: none; }
-
-
-.reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal h4,
-.reveal h5,
-.reveal h6 {
-  font-family: "Quicksand", sans-serif;
-  text-transform: inherit;
-  text-shadow: none;
-}
-
-.reveal h1{
-  font-size: 3.6em;
-}
-
-.reveal section img {
-  border: 0px solid black;
-  background: none;
-  padding: 3px;
-}
-
-/*********************************************
  * CUSTOM STYLES
  *********************************************/
 
 #osgeo-gvsig-logo{
-  width:50%;
+  width:40%;
   box-shadow: none;
 }
 
 .reveal section img.imgback{
   padding:5px;
   background: rgba(255,255,255,0.25);
+}
+
+
+
+/*********************************************
+ * TIMELINE
+ *********************************************/
+/*
+    TimelineJS - ver. 2.26.4 - 2013-11-04
+    Copyright (c) 2012-2013 Northwestern University
+    a project of the Northwestern University Knight Lab, originally created by Zach Wise
+    https://github.com/NUKnightLab/TimelineJS
+    This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0.
+    If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
+*/
+.vco-storyjs{font-family:"Open Sans",Times New Roman,Times,serif;}.vco-storyjs .twitter,.vco-storyjs .vcard,.vco-storyjs .messege,.vco-storyjs .credit,.vco-storyjs .caption,.vco-storyjs .zoom-in,.vco-storyjs .zoom-out,.vco-storyjs .back-home,.vco-storyjs .time-interval div,.vco-storyjs .time-interval-major div,.vco-storyjs .nav-container{font-family:"Open Sans",Helvetica,Arial,sans-serif !important}
+.vco-storyjs h1.date,.vco-storyjs h2.date,.vco-storyjs h3.date,.vco-storyjs h4.date,.vco-storyjs h5.date,.vco-storyjs h6.date{font-family:"Open Sans",Helvetica,Arial,sans-serif !important}
+.vco-storyjs .timenav h1,.vco-storyjs .flag-content h1,.vco-storyjs .era h1,.vco-storyjs .timenav h2,.vco-storyjs .flag-content h2,.vco-storyjs .era h2,.vco-storyjs .timenav h3,.vco-storyjs .flag-content h3,.vco-storyjs .era h3,.vco-storyjs .timenav h4,.vco-storyjs .flag-content h4,.vco-storyjs .era h4,.vco-storyjs .timenav h5,.vco-storyjs .flag-content h5,.vco-storyjs .era h5,.vco-storyjs .timenav h6,.vco-storyjs .flag-content h6,.vco-storyjs .era h6{font-family:"Open Sans",Helvetica,Arial,sans-serif !important}
+.vco-storyjs p,.vco-storyjs blockquote,.vco-storyjs blockquote p,.vco-storyjs .twitter blockquote p{font-family:"Open Sans",Times New Roman,Times,serif !important}
+.vco-storyjs .vco-feature h1,.vco-storyjs .vco-feature h2,.vco-storyjs .vco-feature h3,.vco-storyjs .vco-feature h4,.vco-storyjs .vco-feature h5,.vco-storyjs .vco-feature h6{font-family:"Open Sans",Times New Roman,Times,serif}
+.timeline-tooltip{font-family:"Open Sans",Helvetica,Arial,sans-serif}
+
+
+.vco-storyjs h2.start {
+  font-family: "Quicksand", sans-serif;
+  font-size: 1.5em;
+  line-height: 1.0em;
+  margin-bottom: 15px;
+}
+
+.vco-storyjs p {
+font-size: 30px;
+font-weight: normal;
+line-height: 32px;
+margin-bottom: 20px;
+}
+
+.vco-slider .slider-item .content .content-container .text .container h2.date {
+font-size: 32px;
+line-height: 32px;
+font-weight: normal;
+color: #4f4f4f;
+}
+
+.vco-storyjs h3 {
+font-size: 40px;
+line-height: 40px;
 }

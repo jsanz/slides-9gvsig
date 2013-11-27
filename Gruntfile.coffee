@@ -10,6 +10,7 @@ module.exports = (grunt) ->
                     livereload: true
                 files: [
                     'index.html',
+                    'timeline.json',
                     'stylesheets/*.css'
                 ]
             coffeelint:

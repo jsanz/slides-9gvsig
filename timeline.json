@@ -1,20 +1,140 @@
 {
-    "timeline":
-    {
-        "headline":"Incubación de gvSIG en OSGeo",
-        "type":"default",
-        "text":"<p>Principales hitos relacionados con la incubación de gvSIG en OSGeo</p>",
-        "asset": {
-            "media":"",
-            "credit":"Jorge Sanz",
-            "caption":"gvSIG-OSGeo"
-        },
-        "date": [
-            {
-                "startDate":"2007,06",
-                "headline":"Solicitud de incubación",
-                "text":"<p></p>"
-            }
-        ]
-    }
+  "timeline":
+  {
+    "headline":"Incubación de gvSIG en OSGeo",
+    "type":"default",
+    "text":"<p>Principales hitos relacionados con la incubación de gvSIG en OSGeo</p>",
+    "asset": {
+      "media":"",
+      "credit":"Jorge Sanz",
+      "caption":"gvSIG-OSGeo"
+    },
+    "date": [
+      {
+        "startDate":"2007,06",
+        "headline":"Solicitud de incubación",
+        "text":"<p><a href=\"http://osgeo-org.1560.x6.nabble.com/Fwd-Incubator-Application-gvSIG-Project-Incubator-entry-request-td3712101.html\">petición</a></p>"
+      },{
+        "startDate":"2007,09",
+        "headline":"Incubación aceptada",
+        "asset":{
+          "media":"imgs/foss4g2007.jpg",
+          "credit":"",
+          "caption":"FOSS4G 2007, Victoria"
+        }
+      },{
+        "startDate":"2008,07",
+        "headline":"Apertura Subversion/Trac",
+        "text":"<p><a href=\"http://www.gvsig.org/web/organization/news-office/news/liberado-el-svn-del-codigo-fuente-del-proyecto-gvsig/\">noticia</a></p>"
+      },{
+        "startDate":"2009,02",
+        "headline":"Asociación gvSIG",
+        "asset":{
+          "media":"imgs/gvsigcom.png",
+          "caption":"http://www.gvsig.com"
+        }
+      },{
+        "startDate":"2009,07",
+        "headline":"CDT",
+        "asset":{
+          "media":"imgs/cdt.jpg",
+          "caption":"http://www.gvsig.org/web/working-groups/organizacion"
+        }
+      },{
+        "startDate":"2009,09",
+        "headline":"gvSIG aparece en OSGeo LiveDVD 2.0",
+        "text":"<p><a href=\"http://wiki.osgeo.org/wiki/FOSS4G_2009_Press_Release_35\">noticia</a></p>",
+        "asset":{
+          "media":"imgs/osgeo_live2.png"
+        }
+      },{
+        "startDate":"2010,04",
+        "headline":"Migración a OSOR","text":"<p>SVN, <em>tickets</em>, ...</p>",
+        "asset":{
+          "media":"imgs/osor_logo.png"
+        }
+      },{
+        "startDate":"2010,04",
+        "headline":"Blog gvSIG",
+        "text":"Espacio de artículos técnicos, eventos y de opinión",
+        "asset":{
+          "media":"imgs/blog_gvsig.png",
+          "caption":"http://blog.gvsig.org/2010/04/30/debatiendo-gvsig/"
+        }
+      },{
+        "startDate":"2010,12",
+        "headline":"Primer Code/Bug Sprint (6as jornadas)",
+        "asset":{
+          "media":"imgs/gvsig_codesprint.jpg"
+        }
+      },{
+        "startDate":"2010,12",
+        "headline":"CDT comienza a publicar actas",
+        "text":"<p><a href=\"http://www.gvsig.org/web/working-groups/organizacion/docs/meetings/\">reuniones</a></p>"
+      },{
+        "startDate":"2011,02",
+        "headline":"Arranca planet gvSIG",
+        "text":"Agregador de blogs de la comunidad",
+        "asset":{
+          "media":"imgs/planet_gvsig.png",
+          "credit":"",
+          "caption":"http://planet.gvsig.org"
+          }
+      },
+      {
+        "startDate":"2011,02",
+        "headline":"Nuevas listas de correo","text":"<p>TSC, devel, anuncios, announces</p>"
+      },{
+        "startDate":"2011,03",
+        "headline":"Portal de difusión",
+        "text": "Casos de éxito, marketing, ...",
+        "asset":{
+          "media":"imgs/outreach.png",
+          "caption":"http://outreach.gvsig.org"
+        }
+      },{
+        "startDate":"2011,04",
+        "headline":"Arranca gvSIG Training",
+        "text":"Plataforma de e-learning de la Asociación gvSIG",
+        "asset":{
+          "media":"imgs/gvsig_training.png",
+          "caption":"http://www.gvsig-training.com"
+        }
+      },{
+        "startDate":"2011,05",
+        "headline":"Formalización de la cesión del <em>copyright</em>",
+        "text":"<p><a href=\"http://www.gvsig.org/web/projects/gvsig-desktop/docs/devel/como-contribuir-en-gvsig/contribuciones-y-parches-al-codigo-de-gvsig/templates/contributor-license-agreement\">gvSIG CLA</a></p>",
+        "asset":{
+          "media":"imgs/gvsig_cla.png"
+        }
+      },{
+        "startDate":"2012,01",
+        "headline":"Migración de OSOR a JoinUP",
+        "asset":{
+          "media":"imgs/joinup.png",
+          "caption":"https://joinup.ec.europa.eu/"
+        }
+      },{
+        "startDate":"2012,01",
+        "headline":"Migración a devel.gvsig.org",
+        "text":"Es la infraestructura actual",
+        "asset":{
+          "media":"imgs/redmine.png",
+          "caption":"https://devel.gvsig.org/redmine/projects/gvsig-desktop"
+        }
+      },{
+        "startDate":"2013,04",
+        "headline":"Publicación gvSIG 2.0",
+        "text":"<p><a href=\"http://www.gvsig.org/web/organization/news-office/news/nueva-version-gvsig-2-0-final-disponible/\">noticia</a></p>"
+      },{
+        "startDate":"2013,09",
+        "headline":"Primer borrador de la revisón de código",
+        "text":"<p><a href=\"http://www.gvsig.org/web/projects/gvsig-desktop/docs/devel/gvsig-devel-guide/2-1-0/provenance-review\">informe</a></p>",
+        "asset":{
+          "media":"imgs/gvsig_provreview.png"
+        }
+      }
+    ]
+  }
 }
+

@@ -11,7 +11,7 @@
     <meta name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="reveal/css/reveal.min.css">
-    <link rel="stylesheet" href="reveal/css/theme/sky.css" id="theme">
+    <link rel="stylesheet" href="stylesheets/sky_osgeo.css" id="theme">
     <link rel="stylesheet" href="stylesheets/styles.css">
     <!-- If the query includes 'print-pdf', use the PDF print sheet -->
     <script>
@@ -29,29 +29,46 @@
     <div class="reveal">
       <!-- Any section element inside of this container is displayed as a slide -->
       <div class="slides">
+        <!-- PORTADA Y AGENDA -->
         <section>
-          <img id="osgeo-gvsig-logo" src="imgs/osgeo-gvsig.png" alt="OSGeo y gvSIG">
-          <h2>Colaboración en sofware libre geoespacial</h2>
-          <p>
-            <a href="http://wiki.osgeo.org/wiki/Jorge_Sanz">Jorge Sanz</a>
-            <br/> <a href="http://www.prodevelop.es">Prodevelop SL</a> ·
-            <a href="http://www.gvsig.com">Asociación gvSIG</a> ·
-             <a href="http://www.osgeo.org">Fundación OSGeo</a>
-          </p>
-          <p>
-            <a href="http://kcy.me/vo2d">http://kcy.me/vo2d</a>
-          </p>
+          <section>
+            <img id="osgeo-gvsig-logo" src="imgs/osgeo-gvsig.png" alt="OSGeo y gvSIG">
+            <h2>Colaboración en sofware libre geoespacial</h2>
+
+            <div style="font-size:smaller;">
+              <p>
+                <a href="http://www.linkedin.com/in/jsanz">Jorge Sanz</a>
+                <br/> 
+                <span style="font-size:smaller;">
+                  <a href="http://www.prodevelop.es">Prodevelop SL</a> ·
+                  <a href="http://www.gvsig.com">Asociación gvSIG</a> ·
+                  <a href="http://www.osgeo.org">Fundación OSGeo</a>
+                </span>
+              </p>
+              <p>
+                <a href="http://es.linkedin.com/pub/manuel-madrid-garcía/57/6aa/8b">Manuel Madrid</a>
+                <br/>
+                <span style="font-size:smaller;">
+                  <a href="http://www.gvsig.com">Asociación gvSIG</a>
+                </span>
+              </p>
+              <p>
+                <a href="http://kcy.me/vo2d">http://kcy.me/vo2d</a>
+              </p>
+            </div>
+          </section>
+          <section>
+            <h2> Agenda </h2>
+            <ul>
+              <li>¿Qué es OSGeo?</li>
+              <li>Incubación</li>
+              <li>Otras colaboraciones</li>
+              <li>Conclusiones</li>
+            </ul>
+          </section>
         </section>
-        <section>
-          <h2> Agenda </h2>
-          <ul>
-            <li>¿Qué es OSGeo?</li>
-            <li>Incubación</li>
-            <li>Live DVD</li>
-            <li>Otras colaboraciones</li>
-            <li>...</li>
-          </ul>
-        </section>
+
+        <!-- QUÉ ES OSGEO -->
         <section>
           <section>
             <h2> Qué es OSGeo </h2>
@@ -110,11 +127,11 @@
             <img class="imgback" src="imgs/osgeo-es-v2.png" alt="OSGeo-es">
             <ul>
               <li><a href="http://es.osgeo.org">http://es.osgeo.org</a></li>
-              <li>Comunidad hispano-hablante de OSGeo</li>
-              <li>Soporte en español</li>
-              <li>Traducción de documentos</li>
-              <li>Promoción del software libre en eventos</li>
-              <li>...</li>
+              <li>Comunidad <strong>hispano-hablante</strong> de OSGeo</li>
+              <li><strong>Soporte</strong> en español</li>
+              <li><strong>Traducción</strong> de documentos</li>
+              <li><strong>Promoción</strong> del software libre en eventos</li>
+              <li>Reciente traslado de la actividad a <a href="http://www.geoinquietos.org">geoinquietos</a></li>
             </ul>
           </section>
           <section>
@@ -127,7 +144,7 @@
           </section>
         </section>
 
-        <!-- Incubación -->
+        <!-- INCUBACIÓN -->
         <section>
           <section>
             <h2>Incubación de proyectos</h2>
@@ -164,12 +181,12 @@
               </li>
               <li>¿Documentación?
                 <ul>
-                  <li>de usuario, técnica, organizativos, ...</li>
+                  <li>de usuario, técnica, procesos organizativos, ...</li>
                 </ul>
               </li>
               <li>¿Está integrada en OSGeo?
                 <ul>
-                  <li><em>officer</em>, <em>marketing</em>,...</li>
+                  <li><em>officer</em>, <em>marketing</em>, <em>LiveDVD</em>, ...</li>
                 </ul>
               </li>
               <li>¿Se necesita la infraestructura de OSGeo?
@@ -181,52 +198,48 @@
           </section>
 
           <section>
-            <div id="timeline-embed"></div>
-            <script type="text/javascript">
-                var timeline_config = {
-                    debugkey: true,
-                    width:              '100%',
-                    height:             '600',
-                    source:             'timeline.json',
-                    embed_id:           'timeline-embed',               //OPTIONAL USE A DIFFERENT DIV ID FOR EMBED
-                    start_at_end:       false,                          //OPTIONAL START AT LATEST DATE
-                    ebug:              true,                           //OPTIONAL DEBUG TO CONSOLE
-                    lang:               'es',                           //OPTIONAL LANGUAGE
-                    css:                'timelinejs/build/css/timeline.css',     //OPTIONAL PATH TO CSS
-                    js:                 'timelinejs/build/js/timeline-min.js'    //OPTIONAL PATH TO JS
-                }
-            </script>
-            <script type="text/javascript" src="timelinejs/build/js/storyjs-embed.js"/>
+            <div id="timeline-embed">
+            </div>
           </section>
-<!--          - junio 2007 se solicita incubación
-          - septiembre 2007 se aprueba la incubación
-          - diciembre 2007 3as jornadas gvSIG
-          - julio 2008 se abre SVN/Trac
-          - agosto 2008 primer manual para desarrolladores
-          - febrero 2009 nace la Asociación gvSIG
-          - julio 2009 arranca el TSC
-          - diciembre 2009 gvSIG 1.9
-          - abril 2010 migración a OSOR de SVN, incidencias, ...
-          - septiembre 2010 gvSIG Mini 1.0
-          - noviembre 2010 gvSIG 1.10
-          - diciembre 2010 primer Code/bug Sprint
-          - diciembre 2010 actas públicas TSC
-          - febrero 2011 planet.gvsig.org
-          - febrero 2011 nuevas listas: TSC, devel, announces
-          - marzo 2011 outreach.gvsig.org
-          - abril 2011 gvSIG 1.11
-          - abril 2011 gvSIG Training
-          - mayo 2011 Procedimiento gvSIG CLA
-          - noviembre 2011 1a alfa de gvSIG 2.0
-          - enero 2012 migración de OSOR a JoinUP
-          - enero 2012 migración a devel.gvsig.org
-          - septiembre 2012 gvSIG Batoví
-          - septiembre 2012 gvSIG 1.12
-          - octubre 2012 gvSIG 2.0 beta 1
-          - abril 2013 gvSIG 2.0  -->
         </section>
 
+        <!-- OTRAS SINERGIAS -->
+        <section>
+          <section>
+            <h2>Sinergias gvSIG/OSGeo</h2>
+            <ul>
+              <li>Reuniones y presentaciones de OSGeo<br/> en jornadas gvSIG</li>
+              <li class="fragment fadein">Listas de correo</li>
+              <li class="fragment fadein"><em>Mirror</em> de descargas</li>
+              <li class="fragment fadein">Blogs en <a href="http://planet.osgeo.org">planet.osgeo.org</a></li>
+              <li class="fragment fadein">LiveDVD</li>
+            </ul>
+          </section>
+        </section>
 
+        <!-- CONCLUSIONES Y CIERRE-->
+        <section>
+          <section>
+            <h2>Conclusiones</h2>
+            <ul>
+              <li>OSGeo y gvSIG <strong>comparten</strong> objetivos</li>
+              <li class="fragment fadein">La incubación de gvSIG ha sido
+                <br/> un proceso <strong>largo</strong> pero 
+                <strong>constructivo</strong></li>
+              <li class="fragment fadein">La incubación está en su 
+                <strong>fase final</strong></li>
+              <li class="fragment fadein">La colaboración ha de <strong>cuidarse</strong></li>
+            </ul>
+          </section>
+          <section>
+            <img id="osgeo-gvsig-logo" src="imgs/osgeo-gvsig.png" alt="OSGeo y gvSIG">
+            <h3>Colaboración en sofware libre geoespacial</h3>
+            <h2>¡Muchas gracias!</h2>
+            <p>
+              <a href="http://kcy.me/vo2d">http://kcy.me/vo2d</a>
+            </p>
+          </section>
+        </section>
       </div>
     </div>
 
@@ -256,6 +269,22 @@
           { return !!document.body.classList;}
         }]
       });
+
+      var timeline_config = {
+                    width:              '100%',
+                    height:             '600',
+                    source:             'timeline.json',
+                    embed_id:           'timeline-embed',               //OPTIONAL USE A DIFFERENT DIV ID FOR EMBED
+                    start_at_end:       false,                          //OPTIONAL START AT LATEST DATE
+                    debug:              true,                           //OPTIONAL DEBUG TO CONSOLE
+                    lang:               'es',                           //OPTIONAL LANGUAGE
+                    css:                'timelinejs/build/css/timeline.css',     //OPTIONAL PATH TO CSS
+                    js:                 'timelinejs/build/js/timeline.js'    //OPTIONAL PATH TO JS
+                }
+
     </script>
+    <script src="scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="timelinejs/build/js/storyjs-embed.js"></script>
+    <link rel="stylesheet" href="stylesheets/styles.css">
   </body>
 </html>
